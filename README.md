@@ -10,6 +10,9 @@
        Python is a very powerful programming language that has way more features than a more basic language, 
        say C for example. So I will try to limit my use of functions that are custom to python
     
-    3. In the regression analysis I performed, I was not able to display the desired curve equations, so I would like to make a function that converts the numpy array of coefficients into a string of equations that can be printed out to a dataframe or something like that.
+    3. In the regression analysis I performed, I was not able to display the desired curve equations, so 
+       I would like to make a function that converts the numpy array of coefficients into a string of equations 
+       that can be printed out to a dataframe or something like that.
     
-       Apparently, polynomial curves do not fit the data best (according to the course staff) so I will investigate that on my own time. 
+       Apparently, polynomial curves do not fit the data best (according to the course staff) 
+       so I will investigate that on my own time. 
